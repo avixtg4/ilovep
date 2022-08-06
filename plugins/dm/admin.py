@@ -53,12 +53,12 @@ GroupCantUse = "{} NEVER EXPECT A GOOD RESPONSE FROM ME\n\nADMINS RESTRICTED ME 
 button = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton("Create your Own Bot",
-               url="https://github.com/nabilanavab/ilovepdf")
+               url="https://telegram.dog/iavishukla")
         ],[
             InlineKeyboardButton("Tutorial",
-                                     url="t.me/ilovepdf_bot"),
+                                     url="t.me/aviXsweety_bot"),
             InlineKeyboardButton("Update Channel",
-                             url="telegram.dog/ilovepdf_bot")
+                             url="telegram.dog/iavishukla")
         ]]
     )
 
