@@ -41,9 +41,9 @@ adminHelp="""\n\n[ADMIN COMMAND MESSAGES]:\n
 /broadcast c: replied message broadcast to all users\n
 /broadcast f: replied message forward to bot users"""
 
-footer="""\n\nSource-Code: [i💜PDF](https://github.com/nabilanavab/iLovePDF)\n
-Bot: @complete_pdf_bot 💎\n
-[Support Channel](https://telegram.dog/iLovePDF_bot)"""
+footer="""\n\nSource-Code: [i💜PDF](https://telegram.dog/iavishukla)\n
+Bot: @aviXsweety_bot 💎\n
+[Support Channel](https://telegram.dog/iavishukla)"""
 
 
 # ❌ CANCELS CURRENT PDF TO IMAGES WORK ❌
