@@ -77,15 +77,15 @@ button = InlineKeyboardMarkup(
                                      callback_data="help")
         ],[
             InlineKeyboardButton("🌟 SOURCE CODE 🌟",
-            url="https://github.com/nabilanavab/ilovepdf")
+            url="https://github.com/trikaaldarshi/iloveP")
         ],[
             InlineKeyboardButton("🤖 CHANNEL 🤖",
-                  url="https://telegram.dog/ilovepdf_bot"),
+                  url="https://telegram.dog/iavishukla"),
             InlineKeyboardButton("📝 FEEDBACK 📝",
                                         url=f"{FEEDBACK}")
         ],[
             InlineKeyboardButton("➕ ADD TO GROUP ➕",
-                                  callback_data="underDev")
+                     url="http://t.me/avixsweety_bot?startgroup=start")
         ],[
             InlineKeyboardButton("🚶 CLOSE 🚶",
                                     callback_data="close")
@@ -143,7 +143,7 @@ async def start(bot, message):
                                    f"Let me Introduce myself.. \n"
                                    f"My Name is aviXsweety_bot, and i can help you to do many "
                                    f"Manipulations with @Telegram PDF files\n\n"
-                                   f"Thanks Creators for this Awesome Bot 😅", quote=True,
+                                   f"Thanks Creators @oyee_hero for this Awesome Bot 😅", quote=True,
                                    reply_markup = InlineKeyboardMarkup(
                                                                      [[InlineKeyboardButton("🤠 BOT OWNER 🤠",
                                                                           url = "Telegram.dog/oyee_hero"),
