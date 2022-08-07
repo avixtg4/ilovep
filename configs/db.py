@@ -14,7 +14,7 @@ if os.environ.get("MONGODB_URI", False):
 
 # Log Channel (Optional)
 LOG_CHANNEL = os.environ.get(
-                            "LOG_CHANNEL", False
+                            "LOG_CHANNEL", true 
                             )
 
 
